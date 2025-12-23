@@ -1,4 +1,6 @@
-	PROGRAM DO
+
+PRORAM DO
+
 	INCLUDE 'omp_lib.h'
 	DOUBLE PRECISION, ALLOCATABLE :: x(:,:,:), y(:,:,:), z(:,:,:)
 	DOUBLE PRECISION kx, ky, kz, T1, T2
